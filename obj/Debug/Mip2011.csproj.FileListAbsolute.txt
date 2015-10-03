@@ -1,0 +1,25 @@
+C:\Users\souare\Documents\Visual Studio 2008\Projects\Mip2011\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\souare\Documents\Visual Studio 2008\Projects\Mip2011\bin\Debug\Mip2011.exe
+C:\Users\souare\Documents\Visual Studio 2008\Projects\Mip2011\bin\Debug\Mip2011.pdb
+C:\Users\souare\Documents\Visual Studio 2008\Projects\Mip2011\obj\Debug\Mip2011.exe
+C:\Users\souare\Documents\Visual Studio 2008\Projects\Mip2011\obj\Debug\Mip2011.pdb
+F:\Mip2011\obj\Debug\Mip2011.exe
+F:\Mip2011\obj\Debug\Mip2011.pdb
+F:\Mip2011\obj\Debug\ResolveAssemblyReference.cache
+F:\Mip2011\bin\Debug\Mip2011.exe
+F:\Mip2011\bin\Debug\Mip2011.pdb
+C:\Users\souare\Desktop\Mip_2010\obj\Debug\Mip2011.exe
+C:\Users\souare\Desktop\Mip_2010\obj\Debug\Mip2011.pdb
+C:\Users\souare\Desktop\Mip_2010\bin\Debug\Mip2011.exe
+C:\Users\souare\Desktop\Mip_2010\bin\Debug\Mip2011.pdb
+C:\Users\souare\Desktop\Mip_2010\obj\Debug\Mip2011.csprojResolveAssemblyReference.cache
+C:\Users\souare\Desktop\Mip_2010 - Copy\obj\Debug\Mip2011.exe
+C:\Users\souare\Desktop\Mip_2010 - Copy\obj\Debug\Mip2011.pdb
+C:\Users\souare\Desktop\Mip_2010 - Copy\bin\Debug\Mip2011.exe
+C:\Users\souare\Desktop\Mip_2010 - Copy\bin\Debug\Mip2011.pdb
+C:\Users\souare\Desktop\Mip_2010 - Copy\obj\Debug\Mip2011.csprojResolveAssemblyReference.cache
+C:\Users\yss\Desktop\Mip_2010\obj\Debug\Mip2011.exe
+C:\Users\yss\Desktop\Mip_2010\obj\Debug\Mip2011.pdb
+C:\Users\yss\Desktop\Mip_2010\bin\Debug\Mip2011.exe
+C:\Users\yss\Desktop\Mip_2010\bin\Debug\Mip2011.pdb
+C:\Users\yss\Desktop\Mip_2010\obj\Debug\Mip2011.csprojResolveAssemblyReference.cache
